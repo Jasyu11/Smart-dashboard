@@ -1,5 +1,7 @@
 # Smart-dashboard
-smart dashboard group project. Focus on user requirements analysis/ data collection/processing/shell programming.
+smart dashboard group project. My roles focus on user requirements analysis/ data collection/processing/shell programming.
+
+iot.war is the whole project.
 
 ## data collection
 
